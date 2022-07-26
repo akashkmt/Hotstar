@@ -1,5 +1,4 @@
 # Hotstar
-Hotstar App by   ---> Working of Debounce
 <h3>Tech Stack : HTML | CSS | JavaScript</h3>
 <h4>Features<h4>
 <li>Debounce</li>
